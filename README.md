@@ -87,6 +87,15 @@ Tokenization is the bridge between human language and numerical computation. A â
 A good tokenizer is usually invisible which is why itâ€™s easy to underestimate how important it is.
 
 
+## Roadmap
+
+- [ ] Implement byte-level tokenizer
+- [ ] Add UTF-8 safe decoding
+- [ ] Build basic encode/decode API
+- [ ] Extend to subword tokenization (BPE)
+- [ ] Add benchmarks and tests
+
+
 
 
 
